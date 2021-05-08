@@ -1,5 +1,7 @@
+// feature 1
+import React from 'react';
 
-function App() {
+const App = () => {
   return (
     <div className="grid-container">
       <header>
